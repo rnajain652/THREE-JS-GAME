@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>WebGL Demo</title>
+    <link rel="stylesheet" href="../webgl.css" type="text/css">
+    <style>
+      #score {
+        position: absolute;
+        padding: 10px;
+       margin-left: 40px;
+        top: 50px;
+        color: yellow;
+        font-size:x-large;
+      }
+      #health {
+        position: absolute;
+       margin-left: 40px;
+        top: 100px;
+        color: yellow;
+        font-size:x-large;
+      }
+      #enemy1health {
+        position: absolute;
+        margin-right: 40px;
+        top: 50px;
+        right: 0px;
+        color: yellow;
+        font-size:x-large;
+      }
+      #enemy2health {
+        position: absolute;
+        margin-right: 40px;
+        top: 100px;
+        right: 0px;
+        color: yellow;
+        font-size:x-large;
+      }
+      #enemyboss {
+        position: absolute;
+        margin-right: 40px;
+        top: 150px;
+        right: 0px;
+        color: yellow;
+        font-size:x-large;
+      }
+      #end {
+        position: absolute;
+        top: 400px;
+        left: 400px;
+        color: yellow;
+        font-size: 200px;
+        font-weight: 800px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- <canvas id="glcanvas" width="640" height="480"></canvas> -->
+    <div id="score"></div>
+    <div id="health"></div>
+    <div id="enemy1health"></div>
+    <div id="enemy2health"></div>
+    <div id="enemyboss"></div>
+    <div id="end"></div>
+  </body>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r127/three.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r127/three.module.js"></script>
+  <!-- <script src="https://cdn.rawgit.com/mrdoob/three.js/master/examples/js/loaders/GLTFLoader.js"></script> -->
+  <script src="https://unpkg.com/three@0.126.0/examples/js/loaders/GLTFLoader.js"></script>
+  <script src="./gl-matrix.js"></script>
+  <!-- <script src="./cube.js"></script> -->
+  <script src="./main.js"></script>
+</html>

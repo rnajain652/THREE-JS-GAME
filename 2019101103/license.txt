@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eucadian WarHawk
+* source:	https://sketchfab.com/3d-models/eucadian-warhawk-3fffdab7db7c4e2ca79b42e5cfe80e31
+* author:	Swiss_Fox (https://sketchfab.com/Swiss_Fox)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eucadian WarHawk" (https://sketchfab.com/3d-models/eucadian-warhawk-3fffdab7db7c4e2ca79b42e5cfe80e31) by Swiss_Fox (https://sketchfab.com/Swiss_Fox) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
